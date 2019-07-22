@@ -1,4 +1,4 @@
-#  Office System - Controle de Manutenções.
+#  Office System - Controle de Manutenções Mecânica.
 
 Dashboard                  |  Painel de Serviço
 :-----------------------:|:-------------------------:
