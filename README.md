@@ -7,7 +7,7 @@ Dashboard                  |  Painel de Serviço
 Descrição do sistema
 -----------------------------
 
-O Sistema Office System realiza controle de dados de cliente, colaborador, veículo, procedimento, componente, item, serviço, e ordem de serviço e manutenções realizadas salvando de maneira segura e de fácil acesso. 
+O Sistema Office System realiza controle de dados de cliente, colaborador, veículo, procedimento, componente, item, ordem de serviço e manutenções realizadas salvando de maneira segura e de fácil acesso. 
 O sistema  trabalha com três tipos de acesso, o atendente que realizará os cadastros necessários para abrir a ordem de serviço que por seguinte o mecânico poderá acessar para fazer o apontamento com o tipo de manutenção que executará nos veículos, e o acesso do administrador terá basicamente mesma funcionalidade do atendente com alguns requisitos a mais como um acesso mais amplo nas opções podendo gerenciar dados importantes. Ambos os acessos administrador e o atendente podem emitir relatórios como produção, veiculo, manutenção e colaborador.  
 
 Características
